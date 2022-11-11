@@ -9,3 +9,9 @@ Get Ready
 ```
 pip install -r requirements.txt
 ```
+
+Easy Run
+```
+python mean_loss.py --img1 your_img1_path --img2 your_img2_path
+```
+
